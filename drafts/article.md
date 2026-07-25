@@ -1,5 +1,5 @@
 ---
-title: sample
+title: ../drafts/article
 tags:
   - ''
 private: false

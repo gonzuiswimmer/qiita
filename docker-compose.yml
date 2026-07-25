@@ -1,8 +1,10 @@
 services:
   qiita:
+    container_name: qiita-container
     build: .
     volumes:
       - ./:/app
+      - ~/.config/qiita-cli/credentials.json:/root/.config/qiita-cli/credentials.json
     tty: true
     ports:
-      - "8888:8888"
+      - "127.0.0.1:8888:8888"
