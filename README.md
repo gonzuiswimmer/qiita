@@ -69,12 +69,15 @@ npx new ../drafts/${ARTICLE_TITLE}
 ```
 
 - `drafts`配下の記事を編集
-- `npx qiita preview`でプレビューを表示。必要に応じて画像アップロードなどを実施
 - 終わったら`/sefl-preview`コマンドでセルフレビュー
 - `public`ディレクトリへ移行
+- `npx qiita preview`でプレビューを表示。必要に応じて画像アップロードなどを実施
 
 ```
 mv ./drafts/${ARTICLE_TITLE} ./public/${ARTICLE_TITLE}
 ```
 
+#### 記事公開手順
+
+- `ignorePublish`をtrueに変更
 - コミット＆プッシュで公開

@@ -9,8 +9,6 @@ id: 52082ff87ca41613963a
 organization_url_name: null
 slide: false
 ignorePublish: false
-posting_campaign_uuid: null
-agreed_posting_campaign_term: false
 ---
 
 # Qiita CLI を使って記事投稿の第一歩を踏み出してみた
