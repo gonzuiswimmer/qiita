@@ -1,16 +1,18 @@
 ---
 title: AWS Community Buildersに参加して、Builder Cardsをプレイしてみた
 tags:
-  - "AWS"
-  - "connpass"
-  - "オフラインイベント"
-  - "jaws_ug"
+  - AWS
+  - connpass
+  - オフラインイベント
+  - jaws_ug
 private: false
-updated_at: ""
-id: null
+updated_at: '2026-10-03T12:31:23+09:00'
+id: 98469e151a5607874db8
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## はじめに
