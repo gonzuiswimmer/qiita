@@ -1,17 +1,19 @@
 ---
 title: 引っ越しをきっかけに、AWS Bedrockでごみ捨てルールを調べるRAGを作ってみた
 tags:
-  - "rag"
-  - "bedrock"
-  - "OCR"
-  - "Python"
-  - "個人開発"
+  - rag
+  - bedrock
+  - OCR
+  - Python
+  - 個人開発
 private: false
-updated_at: ""
-id: null
+updated_at: '2026-10-12T19:58:45+09:00'
+id: 1dfef1491bb16538dad3
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## 背景・やりたかったこと
