@@ -21,10 +21,10 @@ docker compose build
 docker compose up -d
 ```
 
-2. `qiita-container`へのアクセス
+2. `qiita`コンテナへアクセス
 
 ```
-docker exec -it qiita-container sh
+docker compose exec -it qiita sh
 ```
 
 3. qiita-cliを使ってログイン
@@ -65,7 +65,7 @@ QIITA
 - `draft_templates`のテンプレート、またはコマンドで`drafts`配下に記事を作成
 
 ```
-npx new ../drafts/${ARTICLE_TITLE}
+npx qiita new ../drafts/${ARTICLE_TITLE}
 ```
 
 - `drafts`配下の記事を編集
